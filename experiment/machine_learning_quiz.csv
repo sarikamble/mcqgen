@@ -1,0 +1,6 @@
+Question ID,Question,Option A,Option B,Option C,Option D,Correct Answer
+1,What is the main focus of machine learning?,Imitating human emotions,Performing tasks autonomously,Creating new languages,Improving physical strength,b
+2,Which type of learning uses labeled datasets to train algorithms?,Supervised learning,Unsupervised learning,Semi-supervised learning,Reinforcement learning,a
+3,What is the purpose of clustering algorithms in machine learning?,Predict numerical values,Classify data into categories,Analyze and cluster unlabeled datasets,Make recommendations based on past behavior,c
+4,Which algorithm is used for predicting categorical response variables?,Neural networks,Linear regression,Logistic regression,Decision trees,c
+5,What is a common application of computer vision in AI?,Automated stock trading,Fraud detection,Speech recognition,Photo tagging on social media,d
